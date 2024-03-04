@@ -1,4 +1,8 @@
-### Hi there 👋
+### Brandon's GitHub 
+
+- Front end dev
+- Learning full stack
+- IG: btn.codes
 
 <!--
 **Al3xand3r11/Al3xand3r11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
